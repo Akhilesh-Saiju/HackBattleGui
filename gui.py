@@ -4,6 +4,7 @@ import csv
 import pandas as pd
 
 
+
 FONT = ("Arial", 12, "italic")
 filename = "Patient_Records.csv"
 fieldname = ["ID", "Name", "Age", "Sex", "Address", "Visit 1", "Visit 2", "Visit 3", "Visit 4", "Visit 5"]
